@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: MS, Computer Science and Engineering
+  uni: National Taiwan Ocean University
+  year: 2006 &mdash; 2008
+  #awards:
+  #  - award: Summa Cumme Laude graduate
+  summary: C.-M. Chao and K.-H. Lu, "Load Awareness Multi-Channel MAC Protocol Design for Ad Hoc Networks", IEEE International Conference on Sensor Networks, Ubiquitous, and Trustworthy Computing (SUTC)
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: BS, Computer Science and Engineering
+  uni: National Taiwan Ocean University
+  year: 2002 &mdash; 2006
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
